@@ -74,7 +74,7 @@ body::before {
 h2 {
     text-align: center;
     font-family: "MedievalSharp", cursive;
-    font-size: 2.5em;
+    font-size: 2em;
     background: linear-gradient(45deg, #ffd700, #ff6b35, #4ecdc4);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -95,7 +95,7 @@ h2 {
 
 p {
     text-align: center;
-    font-size: 1.2em;
+    font-size: 1em;
     margin-bottom: 30px;
     color: #e0e0e0;
     line-height: 1.6;
@@ -128,11 +128,11 @@ p {
     padding: 5px 12px;
     border-radius: 20px;
     font-weight: bold;
-    font-size: 0.9em;
+    font-size: 0.7em;
 }
 
 .pregunta p {
-    font-size: 1.3em;
+    font-size: 1em;
     font-weight: 600;
     margin-bottom: 20px;
     color: #fff;
@@ -148,7 +148,7 @@ label {
     cursor: pointer;
     transition: all 0.3s ease;
     border: 2px solid transparent;
-    font-size: 1.1em;
+    font-size: 1em;
     position: relative;
     overflow: hidden;
 }
@@ -176,7 +176,7 @@ button {
     color: #1a1a2e;
     border: none;
     padding: 18px 40px;
-    font-size: 1.3em;
+    font-size: 1.1em;
     font-family: "MedievalSharp", cursive;
     font-weight: 700;
     border-radius: 50px;
@@ -208,7 +208,7 @@ button:active {
     );
     border: 3px solid #ffd700;
     border-radius: 15px;
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-weight: 700;
     text-align: center;
     color: #fff;
