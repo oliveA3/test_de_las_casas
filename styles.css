@@ -246,6 +246,10 @@ button:active {
     font-size: 1.1em;
 }
 
+.instrucciones p {
+    margin-top: 5px;
+}
+
 .instrucciones a {
     color: #4ecdc4;
     text-decoration: none;
